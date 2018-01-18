@@ -1,4 +1,4 @@
-# Structured and Unstructured DataCollection, Storage, Cleaning and Preprocessing
+# Structured and Unstructured Data Collection, Storage, Cleaning and Preprocessing
 
 Whether data scientists work on structured or unstructured data, they often spend a significant amount of their time collecting, storing, cleaning and preprocessing. This workshop introduces best practices, techniques, and tools for effectively conducting these tasks. Topics covered include:
 - collecting and extracting data from website using Scrapy, BeautifulSoup and other relevant Python packages;
